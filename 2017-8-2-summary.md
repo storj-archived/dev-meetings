@@ -7,6 +7,8 @@
 
 ## Detailed meeting logs
 
+https://community.storj.io/channel/dev?msg=AAzXdrsvtke2M2yjD
+
 ## Farmer reputation and contact discovery
 
 ### Background
